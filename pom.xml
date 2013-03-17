@@ -3,7 +3,7 @@
     <groupId>org.bukkit</groupId>
     <artifactId>bukkit</artifactId>
     <packaging>bundle</packaging>
-    <version>1.5-R0.1bundle-SNAPSHOT</version>
+    <version>1.5-R0.1bundle-0.1-SNAPSHOT</version>
     <name>Bukkit</name>
     <url>http://www.bukkit.org</url>
 
