@@ -101,6 +101,7 @@
             				com.google.common*;version=${guava.version},
             				org.apache.commons.lang*;version=${commons.lang.package.version},
             				org.json.simple*;version=${json.simple.version},
+            				org.apache.tools.ant;resolution:=optional,
             				*
             			</Import-Package>
             		</instructions>
