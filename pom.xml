@@ -97,7 +97,7 @@
 	            			com.avaje.ebean*;version=${ebean.version}
             			</Export-Package>
             			<Import-Package>
-            				org.yaml.snakeyaml*;version=${snakeyaml.version},
+            				org.yaml.snakeyaml*,
             				com.google.common*;version=${guava.version},
             				org.apache.commons.lang*;version=${commons.lang.package.version},
             				org.json.simple*;version=${json.simple.version},
